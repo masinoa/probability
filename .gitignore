@@ -33,5 +33,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+#ipynb 
 .ipynb_checkpoints
 .syncdb
